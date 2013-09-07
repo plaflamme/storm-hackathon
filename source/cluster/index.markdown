@@ -32,7 +32,7 @@ To deploy and demo your topology with production data, you can use the Hopper So
 
 [ElasticSearch](http://elasticsearch.org) is available on the following nodes:
 
-* ```cluster-7-slave-11.sl.hackreduce.net```
+* ```cluster-7-slave-(11,12,13,14,15).sl.hackreduce.net```
 
 ## Kafka
 
